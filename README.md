@@ -20,3 +20,7 @@ How to Run
 	1.	Clone the repository or download the project files.
 	2.	Open the project in Eclipse IDE (or any Java IDE of your choice).
 	3.	Build and run the main class (BrickBreakerGame.java or equivalent) to start playing.
+
+ Credits
+
+Created by Jaskirat Singh.
